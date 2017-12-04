@@ -1,11 +1,11 @@
 
 
-Zebra
-Oroszlan
-Koala
 Sarkany
 Medve
-Kakas
-Zsiraf
-Hal
+Yeti
+Jegesmedve
+Siraly
+Foka
+Pingvin
+
 
